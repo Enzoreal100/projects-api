@@ -11,13 +11,13 @@
     "title": "Projeto 2",
     "description": "Second Project",
     "link": "https://www.site2.com",
-    "img":"https://placehold.co/600x400"
+    "img":"https://placehold.co/1917x970"
   },
   {
     "id": 3,
     "title": "Projeto 3",
     "description": "Third Project",
     "link": "https://www.site3.com",
-    "img":"https://placehold.co/600x400"
+    "img":"https://placehold.co/1917x970"
   }
 ]
