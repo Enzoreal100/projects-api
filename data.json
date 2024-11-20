@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Que Seja Meu",
+    "description": "Development of an Ecommerce platform for a luxury thrift store, focused on providing an elegant and highly functional user experience. The project features a sophisticated design, advanced search filters, secure payment integration, and an intuitive interface to showcase exclusive, high-end products.",
+    "link": "https://www.quesejameu.com.br/"
+  },
+  {
+    "id": 2,
+    "title": "Projeto 2",
+    "description": "Second Project",
+    "link": "https://www.site2.com"
+  },
+  {
+    "id": 3,
+    "title": "Projeto 3",
+    "description": "Third Project",
+    "link": "https://www.site3.com"
+  }
+]
